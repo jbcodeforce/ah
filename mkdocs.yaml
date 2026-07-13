@@ -8,6 +8,7 @@ nav:
   - Investigators: 
     - Investigator List: investigators/index.md
     - Agatha Crane: investigators/agatha_crane.md
+    - Marion Tavares: investigators/marion_tavares.md
   - Cards: cards/index.md
 theme: 
   name: material
