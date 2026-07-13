@@ -11,7 +11,21 @@ Agatha Crane can be built as Mystic or Seeker
 
 ## Seeker
 
-[Deck on Ah_db](https://arkhamdb.com/deck/edit/6166349). 
+[Deck on Ah_db](https://arkhamdb.com/deck/edit/6166349), the main purpose of his deck is to gather clues, while also focusing on sealing, canceling, and ignoring chaos tokens.
+
+### Key Cards & Strategy:
+
+* Use new expansion cards like "Specimens" to cancel tokens and the "Oculus Ghost Camera" for clue compression.
+* To compensate for a base stat of 4, add Dr. Milan, Hawkeye Folding Camera, and rabit masks for stat boosts.
+* [Cryptic Writings](https://arkhamdb.com/card/60215) is used for money but can be swapped for two "Scroll of Secrets" if anotherr investigator has plenty of ways to provide him with money.
+* **Insight Synergy:** runs several Insight cards, including  [Map the Area](https://arkhamdb.com/card/09048), Drawn to the Flame, and Deep Knowledge. Cards like Burning the Midnight Oil and Correlate All Its Contents allow him to turn his free Insights into an investigate action.
+* Level 0 Spells/Skills: the starting purple (Mystic) cards include Read the Signs, Ward of Protection, and Promise of Power. Art Student to help grab the last tricky clues for his Hawkeye Folding Camera.
+
+### Upgrade Plans:
+
+* Eventually swap out Dr. Milan for Archibald MacVicar.
+* purchase Cosmic Revelation, Misdirection, and Confound (from the Hemlock expansion).
+* The rest of his experience points will go toward simply upgrading his existing cards, such as Scroll of Secrets and Deduction.
 
 ## Mystic
 

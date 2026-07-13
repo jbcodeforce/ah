@@ -40,7 +40,7 @@ Interesting links:
 
 ## Investigators
 
-[See dedicated chapter](investigators.md)
+[See dedicated chapter](./investigators/index.md)
 
 ---
 
@@ -146,7 +146,7 @@ The core set has important common cards that should be assessed of why NOT using
 
 ## Campaigns
 
-[See dedicated chapter](campaign.md)
+[See dedicated chapter](./campaigns/index.md)
  
 ## Scenario comments
 

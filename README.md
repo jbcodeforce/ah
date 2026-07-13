@@ -1,6 +1,10 @@
-# Arkham Horror LCG
+# [Arkham Horror LCG personal notes](https://jbcodeforce.github.io/ah)
 
 Agentic based knowledge management about Arkham Horror.
+
+## Documentation
+
+[Read book view](https://jbcodeforce.github.io/ah)
 
 ## Research
 
