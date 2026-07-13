@@ -1,0 +1,30 @@
+[
+  {
+    "file": "campaign.md",
+    "title": "Campaign notes and rules",
+    "source": "ah",
+    "ingested": "2026-06-21T16:15:53Z",
+    "compiled": false
+  },
+  {
+    "file": "index.md",
+    "title": "Arkham Horror LCG",
+    "source": "ah",
+    "ingested": "2026-06-21T16:15:53Z",
+    "compiled": false
+  },
+  {
+    "file": "investigators.md",
+    "title": "Investigator best practices",
+    "source": "ah",
+    "ingested": "2026-06-21T16:15:53Z",
+    "compiled": false
+  },
+  {
+    "file": "investogators/agatha_crane.md",
+    "title": "Agatha Crane",
+    "source": "ah",
+    "ingested": "2026-06-21T16:15:53Z",
+    "compiled": false
+  }
+]
