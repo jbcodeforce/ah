@@ -9,6 +9,11 @@ compiled: false
 
 Agatha Crane can be built as Mystic or Seeker
 
+<figure markdown='span'>
+![](./images/11007.png)
+</figure>
+
+
 ## Seeker
 
 [Deck on Ah_db](https://arkhamdb.com/deck/edit/6166349), the main purpose of his deck is to gather clues, while also focusing on sealing, canceling, and ignoring chaos tokens.

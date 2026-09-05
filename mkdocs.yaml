@@ -7,7 +7,9 @@ nav:
   - Campaigns: campaigns/index.md
   - Investigators: 
     - Investigator List: investigators/index.md
+    - Alessandra Zori: investigators/a_zorzi.md 
     - Agatha Crane: investigators/agatha_crane.md
+    - Hans Samson: investigators/hans_samson.md
     - Marion Tavares: investigators/marion_tavares.md
   - Cards: cards/index.md
 theme: 
