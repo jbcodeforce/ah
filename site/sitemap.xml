@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jbcodeforce.github.io/ah/</loc>
-         <lastmod>2026-07-13</lastmod>
+         <lastmod>2026-09-05</lastmod>
     </url>
     <url>
          <loc>https://jbcodeforce.github.io/ah/assistants/local-expert-chat/</loc>
-         <lastmod>2026-07-13</lastmod>
+         <lastmod>2026-09-05</lastmod>
     </url>
     <url>
          <loc>https://jbcodeforce.github.io/ah/campaigns/</loc>
-         <lastmod>2026-07-13</lastmod>
+         <lastmod>2026-09-05</lastmod>
     </url>
     <url>
          <loc>https://jbcodeforce.github.io/ah/cards/</loc>
-         <lastmod>2026-07-13</lastmod>
+         <lastmod>2026-09-05</lastmod>
     </url>
     <url>
          <loc>https://jbcodeforce.github.io/ah/investigators/</loc>
-         <lastmod>2026-07-13</lastmod>
+         <lastmod>2026-09-05</lastmod>
+    </url>
+    <url>
+         <loc>https://jbcodeforce.github.io/ah/investigators/a_zorzi/</loc>
+         <lastmod>2026-09-05</lastmod>
     </url>
     <url>
          <loc>https://jbcodeforce.github.io/ah/investigators/agatha_crane/</loc>
-         <lastmod>2026-07-13</lastmod>
+         <lastmod>2026-09-05</lastmod>
+    </url>
+    <url>
+         <loc>https://jbcodeforce.github.io/ah/investigators/hans_samson/</loc>
+         <lastmod>2026-09-05</lastmod>
+    </url>
+    <url>
+         <loc>https://jbcodeforce.github.io/ah/investigators/marion_tavares/</loc>
+         <lastmod>2026-09-05</lastmod>
     </url>
 </urlset>

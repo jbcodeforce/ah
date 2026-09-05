@@ -15,7 +15,7 @@ Due to her weakness: "I will do it myself": Discard 3 events from your hand: Dis
 * [this deck: Marion a Gunbit](https://arkhamdb.com/decklist/view/53619/marion-takes-a-gunbit-1.0) 
 * [One-Punch Marion](https://arkhamdb.com/decklist/view/53705/one-punch-marion-tdc-blind-run-deck-guide-1.0)
 * [Field Agents on a Boat!](https://arkhamdb.com/decklist/view/54200/field-agents-on-a-boat-hc-7-5k-guide-1.0)
-* [My 1st deck for Marion]()
+* [My 1st deck for Marion](https://arkhamdb.com/deck/view/6166362?deck_name=The%20Adventures%20of%20Marion%20Tavares%20Drowned%20City)
 
 ### Key Assets/Non-Events
 
@@ -26,13 +26,16 @@ Always consider the cards added in the investigator box for the matching campaig
 * Run "[Hand Hook](https://arkhamdb.com/card/11082)" and "Beat Cop" to boost the combat stat.
 * Rely on the new [Remington](https://arkhamdb.com/card/11022) firearm, treated essentially as an event because of how well it combos with cards like "[Act of Desperation](https://arkhamdb.com/card/05037)" and [Push to the Limit](https://arkhamdb.com/card/10113). We need to make it come and go as many times as possible
 * "Hallowed Mirror," which is an asset that effectively adds three powerful events to the deck.
+* [Wolf Mask](https://arkhamdb.com/card/10023)
 
 ### Skills
 
-* "Take the Initiative" is used for protection, compensating for Marion's low willpower stat of 2.
+* [Take the Initiative](https://arkhamdb.com/card/04150) is used for protection, compensating for Marion's low willpower stat of 2.
 * "Vicious Blow" is used for extra damage output.
 
 ### Events Strategy
+
+As long as you're playing an event per turn Marion gets an extra card which helps you find Hallowed Mirror. From there Soothing Melody and True Awakening offer additional cards. 
 
 Here is a play: you’d initiate an attack of opportunity, then immediately play [Counterpunch (2)](https://arkhamdb.com/card/60122), then after resolving the event trigger and resolve Marion’s ability (**After you play an event during your turn: Draw 1 card. Then, you may play a different event**) to allow you to play a new event such as [Monster Slayer](https://arkhamdb.com/card/60116) and resolve it, and only after that would you resolve the attack of opportunity if the enemy is still in play
 
