@@ -22,7 +22,6 @@ For research or news requests, the team ingests sources to `raw/`, answers immed
 
 ## Prerequisites
 
-- Docker Desktop
 - OMLX on this Mac or on a remote host (**chat only** — `KMA_LLM_BASE_URL` in `assistants/km-agent/.env`)
 - Embeddings run **inside the container** via fastembed (`KMA_EMBED_PROVIDER=fastembed`) — no OMLX embed server
 - No km-agent repository clone — flink-studies pulls the published image `jbcodeforce/km-agent:latest` (must include fastembed + `index_wiki.py`)
