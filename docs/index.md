@@ -22,21 +22,36 @@ Interesting links:
 
 ## [Rules](https://arkhamdb.com/rules) to do not forget
 
-* Skill test modified is always >=0: Token + base + skill icon + modifier on assets >=0.  Then compare to the skill level to test.
-* After an enemy attacks, it is exhausted, so not ready, so we may be able to do action without attack of opportunity. Attention an enemy does not exhaust while making an [attack of opportunity](https://arkhamdb.com/rules#Attack_of_Opportunity). We can still make damage to it with a reaction card (Like [Delilah O'Rourke](https://arkhamdb.com/card/06281)).
-* We can not discover more clues than were already available to be discovered from a location, regardless of the number of successes or card effects.
-* All dooms in play are removed when agenda progresses, even the ones on player or enemy cards
-* Prey only cares when an enemy needs a tiebreaker for who it moves to or engages to.  Apply when moving but also when ready.
-* As long as an investigator isn't resolving a treachery with the "peril" keyword, each other investigator on the same location may commit one (only one per skill test) of their cards to that investigator's skill tests.
-* **Revealed tokens** when we cancel or ignore a token, it doesn't count as being revealed. But partially ignored token still count as being revealed. A "skull" during a fight using Baseball bat, breaks the bat, even if we added "Defiance" to the skill test.
-* "Limit 1 per investigator" means, "in play". Different than 1 limit per deck.
-* Arrow action on card cannot be combined with other action on card (investigate + a flash light).
 * Heal is only on personal investigator, except when explicitly saying at the location, or something else.
 * [Trauma](https://arkhamdb.com/rules#Trauma) can be healed, when game starts.
 * [Revelation](https://arkhamdb.com/rules#Revelation) is only triggered on cards when we draw them, not when we look at or discard them.
-* While searching, search for any card that meets the criteria, not just the first one.
 * The per investigator symbol is when the game starts, so if one is eliminated, the quota is still as at the beginning.
+
+### Deck
+* "Limit 1 per investigator" means, "in play". Different than 1 limit per deck.
+* Arrow action on card cannot be combined with other action on card (investigate + a flash light).
+* While searching within a deck, search for any card that meets the criteria, not just the first one.
+
+### Skill Tests
+* Skill test modified is always >=0: Token + base + skill icon + modifier on assets >=0.  Then compare to the skill level to test.
+* As long as an investigator isn't resolving a treachery with the "peril" keyword, each other investigator on the same location may commit one (only one per skill test) of their cards to that investigator's skill tests.
+* **Revealed tokens** when we cancel or ignore a token, it doesn't count as being revealed. But partially ignored token still count as being revealed. A "skull" during a fight using Baseball bat, breaks the bat, even if we added "Defiance" to the skill test.
+
+### Fight / Enemies
+* Prey only cares when an enemy needs a tiebreaker for who it moves to or engages to.  Apply when moving but also when ready.
+* You can fight them normally a ready & unengaged enemies (e.g., in the Staging Area). If you fail, nothing special happens (you don't hit yourself or anyone else).
+* Enemies that are exhausted (for example, after being successfully Evaded) are no longer engaged with anyone and sit at the location ready to be attacked safely. You can fight an exhausted enemy without any risk of friendly fire, even if it was previously engaged with a teammate. 
+* You can target and fight an enemy engaged with a fellow investigator at your location. If you succeed, you deal damage to the enemy as normal. If you fail, you hit the investigator.
+* After an enemy attacks, it is exhausted, so not ready, so we may be able to do action without attack of opportunity. Attention an enemy does not exhaust while making an [attack of opportunity](https://arkhamdb.com/rules#Attack_of_Opportunity). We can still make damage to it, with a reaction card (Like [Delilah O'Rourke](https://arkhamdb.com/card/06281)).
 * Automatically evade (like in [cunning distraction](https://arkhamdb.com/card/01078)) is a not an evade action, so could not be a successful action. 
+### Investigate
+* We cannot discover more clues than were already available to be discovered from a location, regardless of the number of successes or card effects.
+
+### Dooms
+* All dooms in play are removed when agenda progresses, even the ones on player or enemy cards
+
+
+
 
 ## Investigators
 

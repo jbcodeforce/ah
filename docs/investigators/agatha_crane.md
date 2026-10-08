@@ -7,6 +7,7 @@ type: article
 compiled: false
 ---
 
+# [Agatha Crane](https://arkhamdb.com/card/11007)
 Agatha Crane can be built as Mystic or Seeker
 
 <figure markdown='span'>
@@ -16,21 +17,31 @@ Agatha Crane can be built as Mystic or Seeker
 
 ## Seeker
 
-[Deck on Ah_db](https://arkhamdb.com/deck/edit/6166349), the main purpose of his deck is to gather clues, while also focusing on sealing, canceling, and ignoring chaos tokens.
+[Deck on Ah_db](https://arkhamdb.com/deck/edit/6166349), the main purpose of the deck is to gather clues, while also focusing on sealing, canceling, and ignoring chaos tokens.
+
+To search for insight events: `k:insight`. The one that may fit well:
+
+* [I'v got a plan](https://arkhamdb.com/card/02107) for attack with book. [Seeking answer](https://arkhamdb.com/card/01685) (2xp)
+* [Shortcut](https://arkhamdb.com/card/02022), [No Stone Unturned](https://arkhamdb.com/card/03026) + 5xp one.
 
 ### Key Cards & Strategy:
 
-* Use new expansion cards like [Uncanny Specimen](https://arkhamdb.com/card/11039) to cancel tokens and the [Oculus Ghost Camera](https://arkhamdb.com/card/11009) for clue compression.
+* Use new expansion cards like [Uncanny Specimen](https://arkhamdb.com/card/11039) to cancel tokens and the [Oculus Ghost Camera](https://arkhamdb.com/card/11009) for clue compression. [Dial of anscients](https://arkhamdb.com/card/11035) seems to be long to build but it is a charges generator, to combine with [Eldritch Sophist](https://arkhamdb.com/card/07111) to move charges to other assets
 * To compensate for a base stat of 4, add Dr. Milan, [Hawkeye Folding Camera](https://arkhamdb.com/card/05154), and [Mouse masks](https://arkhamdb.com/card/10043) for stat boosts.
 * [Cryptic Writings](https://arkhamdb.com/card/60215) is used for money but can be swapped for two "[Scroll of Secrets]()" if another investigator has plenty of ways to provide money.
 * **Insight Synergy:** runs several Insight cards, including  [Map the Area](https://arkhamdb.com/card/09048), [Drawn to the Flame](https://arkhamdb.com/card/01064), and [Deep Knowledge](https://arkhamdb.com/card/07023). Cards like [Burning the Midnight Oil](https://arkhamdb.com/card/60214) and [Correlate All Its Contents](https://arkhamdb.com/card/11040) allow her to turn the free `Insights` into an investigate action.
+* Other insightd to consider: [Tinker](https://arkhamdb.com/card/10028) for an extra slot on one of the items as 
 * Level 0 Spells/Skills: the starting purple (Mystic) cards include [Read the Signs](https://arkhamdb.com/card/06117), [Ward of Protection](https://arkhamdb.com/card/01065), and [Promise of Power](https://arkhamdb.com/card/07032). [Art Student](https://arkhamdb.com/card/02149) to help grab the last tricky clues for his Hawkeye Folding Camera.
 
 ### Upgrade Plans:
 
-* Eventually swap out Dr. Milan for [Archibald MacVeigh](https://arkhamdb.com/card/11117).
-* purchase [Cosmic Revelation](https://arkhamdb.com/card/11041), [Misdirection](https://arkhamdb.com/card/11043), and [Confound](https://arkhamdb.com/card/10057) (from the Hemlock expansion).
-* The rest of his experience points will go toward simply upgrading his existing cards, such as [Scroll of Secrets](https://arkhamdb.com/card/05188) and [Deduction (2xp)](https://arkhamdb.com/card/60275).
+Cards to drop: 
+
+* interesting cards from drowned city: [Antikythera](), [Dial of Ancients](https://arkhamdb.com/card/11046), [working a hunch](). For card draw, insight [Cosmic Revelation](https://arkhamdb.com/card/11041)
+* Eventually swap out Dr. Milan for [Archibald MacVeigh](https://arkhamdb.com/card/11117)(3XP from taboos) or [Gabriel Carillo](https://arkhamdb.com/card/10052).
+* [Higher Education](https://arkhamdb.com/card/02187) to boost mind or book. 
+* purchase [Misdirection](https://arkhamdb.com/card/11043), and [Confound](https://arkhamdb.com/card/10057) (from the Hemlock expansion).
+* The rest of the experience points will go toward simply upgrading his existing cards, such as [Scroll of Secrets](https://arkhamdb.com/card/05188) and [Deduction (2xp)](https://arkhamdb.com/card/60275).
 
 ## Mystic
 
